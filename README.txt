@@ -1,5 +1,4 @@
 Our group name: Rocket 101
-section: 2
 
 
 Goal:
